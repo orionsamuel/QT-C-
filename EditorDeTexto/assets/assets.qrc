@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/undo.png</file>
+        <file>icons/search.png</file>
+        <file>icons/save.png</file>
+        <file>icons/right.png</file>
+        <file>icons/redo.png</file>
+        <file>icons/print.png</file>
+        <file>icons/paste.png</file>
+        <file>icons/open.png</file>
+        <file>icons/list.png</file>
+        <file>icons/left.png</file>
+        <file>icons/highlight.png</file>
+        <file>icons/grammar.png</file>
+        <file>icons/font.png</file>
+        <file>icons/file.png</file>
+        <file>icons/edit.png</file>
+        <file>icons/cut.png</file>
+        <file>icons/cor.png</file>
+        <file>icons/copy.png</file>
+        <file>icons/close.png</file>
+        <file>icons/clear.png</file>
+        <file>icons/center.png</file>
+        <file>icons/background.png</file>
+        <file>icons/about.png</file>
+    </qresource>
+</RCC>
